@@ -1,6 +1,4 @@
-game_state.jsonl
 .venv/
 __pycache__
 .python-version
-game_events.jsonl
-
+*.jsonl
