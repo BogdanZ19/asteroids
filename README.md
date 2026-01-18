@@ -26,7 +26,7 @@ Here’s a summary of key files and modules:
 ## 🛠️ Requirements & Setup
 
 * Python (version 3.x recommended)
-* Any additional dependencies: install via `pip install -r requirements.txt` 
+* Any additional dependencies: install via `uv sync` or `pip install -r requirements.txt` 
 * To run the game:
 
   ```bash
@@ -46,6 +46,7 @@ Here’s a summary of key files and modules:
 * Modular Python code: clear separation of concerns (player, asteroids, shots, field).
 * Uses object-oriented programming for game entities.
 * Basic collision detection for interacting game objects.
+
 
 
 
