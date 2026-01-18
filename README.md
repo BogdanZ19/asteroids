@@ -1,6 +1,7 @@
 # Asteroids
 
-A simple 2D Asteroids-style game implemented in Python.
+A simple 2D Asteroids-style game implemented in Python. <br>
+Guided project from [boot.dev](https://www.boot.dev/)
 
 ## 🎮 Overview
 
@@ -45,6 +46,7 @@ Here’s a summary of key files and modules:
 * Modular Python code: clear separation of concerns (player, asteroids, shots, field).
 * Uses object-oriented programming for game entities.
 * Basic collision detection for interacting game objects.
+
 
 
 
